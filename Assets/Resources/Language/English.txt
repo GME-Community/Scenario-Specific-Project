@@ -1,0 +1,50 @@
+_setitle:Setting
+_back:Back
+Language_Text:Language
+CN_Toggle:Chinese
+EN_Toggle:English
+threeD_sound:3D Sound
+change_voice_Text:Voice Changing
+voice_type_Text:Templates
+_VT_lolita:alien
+_VT_uncle:baby
+_VT_INTANGIBLE:cartoon-man
+_VT_child:cartoon-woman
+btn_on:on
+btn_off:off
+bkgroundmusic:Background music
+Range_sound:Proximity Voice
+guide_text:Guide
+guide_text1:Welcome to GME's demo app! Here are features you can explore in this demo:
+guide_text2:Microphone and speaker are enabled by default, allowing you to 
+guide_text2_1: speak and hear others. You can turn them off manually.
+guide_text3:A circle around your character restricts communication with 
+guide_text3_1:players out of this circle. This feature is enabled by default.
+guide_text4:The volume and direction of players’ voice will change 
+guide_text4_1:according to your character’s position and direction. This feature is enabled by 
+guide_text4_2:default. Headphones recommended for better effect. 
+guide_text7:This feature is disabled by default. Modify it in setting and
+guide_text8:explore how interesting your tone can be.
+exitRoom_tip:have exited the voice room
+enterRoom_tip:have entered the voice room
+set_speakerMic:Turn on the speaker and microphone
+set_functionStatus:Change the status of features
+set_viewGuide:View operating guide
+set_roomLogInfo:Room log information
+set_joystick:Control the movement of the character
+set_exit:Back
+set_micOn:Microphone turned on
+set_micOff:Microphone turned off
+set_speakerOn:Speaker turned on
+set_speakerOff:Speaker turned off
+gme_staff:GME staff
+set_guidButton:I see
+totast_micOn:Microphone turned on
+totast_micOff:Microphone turned off
+totast_speakOn:Speaker turned on
+totast_speakOff:Speaker turned off
+howling_suppression:howling suppression
+Text_voiceChat:Voice chat
+Text_ProximityVoice:Proximity voice
+Text_3DSpatialVoice:3D spatial voice
+Text_VoiceChanging:Voice changing

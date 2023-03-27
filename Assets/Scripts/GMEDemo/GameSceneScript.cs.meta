@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: a21e0efdee6da4e2393569e82b9e8936
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - Btn_Mic: {instanceID: 0}
+  - Spr_MicClose: {instanceID: 0}
+  - Spr_MicOpen: {instanceID: 0}
+  - Panel_Help: {instanceID: 0}
+  - Panel_Setting: {instanceID: 0}
+  - NetManager: {instanceID: 0}
+  - Itme_Openid: {instanceID: 0}
+  - Content: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
